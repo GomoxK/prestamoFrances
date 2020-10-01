@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/GomoxK/prestamoFrances/issues"
   },
-  "homepage": "https://github.com/GomoxK/prestamoFrances#readme"
+  "homepage": "https://github.com/GomoxK/prestamoFrances#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
